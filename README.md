@@ -49,6 +49,15 @@ The game is currently in development, and this repository contains the project f
 - **Audio:** Improve BGM, SFX, and ambient sound layering for better immersion.
 - **Optimization:** Boost low-end performance, reduce build size, and apply patterns like Object Pooling, Observer, and Command.
 -------------
+### How to Play
+- **Clone:**
+  - Clone this repository:
+    ```
+    git clone https://github.com/TriItMyName/Project_2D_Game_Platform_HN.git
+    ```
+  - Open project in Unity LTS 6000.2.62f.
+  - Press Play in Unity Editor
+-------------
 ### Resources
 For those interested in *Hollow Knight* sprites, you can find resources below:  
 - **Hollow Knight Sprites (Voidheart Edition) 1.4.3.2:** [Google Drive Link](https://drive.google.com/drive/folders/1lx02_w9TFTYdR3aggI1gbXcLr69roaNV)  
