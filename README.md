@@ -16,7 +16,7 @@ The game is currently in development, and this repository contains the project f
 - Basic Audio design: dynamic background music for different levels.
 -------------
 ### Technologies & Tool used
-- Unity LTS version 2022.3.24f1.
+- Unity LTS version 6000.2.6f2.
 - C#: Programming language for gameplay mechanics.
 - Aseprite: Sprite design and animation.
 - Adobe Photoshop: Image editing and asset creation.
@@ -36,41 +36,14 @@ The game is currently in development, and this repository contains the project f
 - **GameOver Scene**
 ![MainMenu Screenshot](./Assets/Others/Images/GameOverScene4.png)
 -------------
-### How to Play
-- **Clone:**
-  - Clone this repository:
-    ```
-    git clone https://github.com/Quochung2497/2D-Game-Platformer-Personal-Project.git
-    ```
-  - Open project in Unity LTS 2022.3.24f1.
-  - Press Play in Unity Editor
-- **Install:**
-  - **Itch.io:** [download](https://quochung020497.itch.io/)
--------------
 ### Future Plans & Updates
-- **Combat System Update:**
-  - Introduce a talisman system that provides various buffs, debuffs, or special abilities.
-  - Implement unique special abilities and spells to diversify gameplay.
-  - Enhance attack combos and refine block/counter mechanics for more dynamic combat.
-- **Levels:**
-  -  **Redesign level to enhance user experience** and introduce additional unique challenges.
-  -  Create more interactive elements, such as destructible environments, to immerse players further in the game world.
-- **Enhanced Enemy AI:**
-  - Add new enemy types, each with distinct and varied attack patterns.
-  - Improve enemy AI to make combat encounters more challenging and engaging, pushing players to adapt and strategize.
-- **Boss Fights:**
-  - Implement major boss battles inspired by Hollow Knight.
-  - **Redesign and enhance boss AI behavior** and **improve boss mechanics** for more engaging and challenging encounters.
-- **UI/UX Improvements:**
-  - Create more customizable settings for the options menu, including controller configuration, keyboard remapping, language settings, sound, graphics options,...etc.
-  - Redesign existing HUD elements (player, boss, enemy, interactable objects, inventory, talisman, etc.) to enhance user experience, making them more visually appealing and easier to navigate.
-- **Audio Enhancements:**
-  - Implement multiple audio types (BGM, sound effects, environmental sounds, etc.) to better manage and enhance the overall sound experience.
-  - Refine sound effects for a more immersive and accurate auditory experience in both combat and environmental interactions.
-- **Optimization:**
-  - Optimize game performance to ensure smoother gameplay, even on lower-end devices.
-  - Reduce game file size efficiently without significantly compromising on visual or audio quality.
-  - Implement more design pattern to optimize game performance (Object pooling, Observer pattern, Command Pattern ,..)
+- **Combat:** Add talismans, unique skills/spells, and smoother combo/block/counter flow.
+- **Levels:** Redesign stages with unique challenges and more interactive elements (e.g., destructible objects).
+- **Enemy AI:** Add new enemy types and smarter behaviors to make combat more strategic.
+- **Boss Fights:** Build Hollow Knight-inspired bosses with stronger AI and richer mechanics.
+- **UI/UX:** Expand settings (controls, language, audio, graphics) and redesign HUD for clarity.
+- **Audio:** Improve BGM, SFX, and ambient sound layering for better immersion.
+- **Optimization:** Boost low-end performance, reduce build size, and apply patterns like Object Pooling, Observer, and Command.
 -------------
 ### Resources
 For those interested in *Hollow Knight* sprites, you can find resources below:  
