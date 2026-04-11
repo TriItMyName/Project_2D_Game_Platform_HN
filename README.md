@@ -16,7 +16,7 @@ The game is currently in development, and this repository contains the project f
 - Basic Audio design: dynamic background music for different levels.
 -------------
 ### Technologies & Tool used
-- Unity LTS version 6000.2.6f2.
+- Unity version 6000.2.6f2.
 - C#: Programming language for gameplay mechanics.
 - Aseprite: Sprite design and animation.
 - Adobe Photoshop: Image editing and asset creation.
